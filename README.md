@@ -4,10 +4,8 @@ Welcome to my Personal CS50 Course Projects Repository! In this repository, you 
 
 ## Languages Used
 Python
-JavaScript
 C
 SQL
-JavaScript plus CSS and HTML
 
 For each project, the corresponding programming language is indicated in the project description.
 
