@@ -10,7 +10,7 @@ SQL
 For each project, the corresponding programming language is indicated in the project description.
 
 ## Instructions
-Each project directory contains its own README file that provides detailed instructions on running, testing, and understanding the project. Please refer to the specific README file of each project for more information.
+Each project directory contains its own README file that provides instructions on running, testing, and understanding the project. Please refer to the specific README file of each project for more information.
 
 ## Contributing
 As this repository is a personal collection of coursework projects, I am not actively seeking contributions. However, if you find any issues or have suggestions for improvements, feel free to open an issue or contact me.
