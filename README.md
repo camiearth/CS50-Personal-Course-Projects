@@ -1,6 +1,6 @@
 # CS50-Personal-Course-Projects
 
-Welcome to my Personal CS50 Course Projects Repository! In this repository, you will find a collection of projects that I completed as part of my online course. Each project focuses on a different aspect of programming and was implemented using various programming languages. As part of this course, I undertook several challenging projects to gain hands-on experience with different programming languages and concepts. This repository serves as a portfolio of my work and showcases my growth as a programmer throughout the course.
+Welcome to my Personal CS50 Course Projects Repository! In this repository, you will find a collection of projects that I completed as part of the course: Harvard University: CS50's Introduction to Computer Science. Each project focuses on a different aspect of programming and was implemented using various programming languages. As part of this course, I undertook several challenging projects to gain hands-on experience with different programming languages and concepts. This repository serves as a portfolio of my work and showcases my growth as a programmer throughout the course.
 
 ## Languages Used
 Python
